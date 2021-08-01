@@ -6,7 +6,8 @@
 /out-tsc
 # Only exists if Bazel was run
 /bazel-out
-
+/backend/node_modules
+/backend/.env
 # dependencies
 /node_modules
 
